@@ -1,2 +1,2 @@
 # WebDevelopment
-This repository is used for Spring framework related projects
+This repository is used for projects using Java technolgies (Core Java, J2EE, JDBC, Spring and Hibernate framework)
